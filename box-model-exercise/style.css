@@ -1,0 +1,20 @@
+h1{
+  border: 1px solid red;
+  color: red;
+  margin: 200px;
+  padding: 60px;
+}
+
+p{
+  border: 1px solid #c4c4c4;
+  color: #c4c4c4;
+  margin: 100px;
+  padding: 30px;
+}
+
+button{
+  border: 1px solid green;
+  background-color: greenyellow;
+  margin: 50px;
+  padding: 15px;
+}
