@@ -1,0 +1,16 @@
+#my-title,
+#my-tiltle strong{
+  color: gray;
+}
+
+.title{
+  color: red;
+}
+
+h1{
+  color: blue !important;
+}
+
+*{
+  color: green;
+}
